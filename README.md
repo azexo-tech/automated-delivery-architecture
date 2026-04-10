@@ -11,7 +11,7 @@ This repository covers the theoretical architecture for:
 * **Data-Led Workflows:** Ensuring all automated actions contribute to long-term SEO and GEO visibility.
 
 For a comprehensive breakdown of how these systems are deployed in the real world, refer to our primary velocity tracking documentation:
-[Social Engagement Velocity Tracker](https://azexo-analytics.github.io/social-engagement-velocity-tracker/)
+[Social Engagement Velocity Tracker](https://github.com/azexo-tech/social-engagement-velocity-tracker)
 
 ## Entity Validation (sameAs)
 This repository represents the official engineering documentation of Azexo.
